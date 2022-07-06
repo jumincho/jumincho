@@ -21,6 +21,9 @@
 ---
 # Ability
 - ### Tech Stack
+**I'm Good at** : *(null) yet*😂
+**I'm Studying** :
+**Once I've Used** : 
 
 <!--
 **jumincho/jumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
