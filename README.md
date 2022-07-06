@@ -1,4 +1,7 @@
-# Hi there 👋
+## Profile
+- Age : 23.986 (07/06/2022)
+- Height : 5.94 ft (Rounded)
+- Weight : 159 lbs (Desired)
 
 <!--
 **jumincho/jumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
