@@ -9,17 +9,18 @@
 |--|--|
 |2018.03 ~ 2024.02|Jeonbuk National University|
 |2019.04 ~ 2021.02|Republic of Korea Air Force *(Loan)*|
-### Leader Experience
+- ### Leader Experience
 |Year|Duty|
 |--|--|
 |2015 ~ 2016|Class Vice-President *(in high school)*|
 |2021|[School Vice-President *(in college major)*](https://instagram.com/jbnucse?igshid=YmMyMTA2M2Y=)|
-### Winning Prize
+- ### Winning Prize
 |Year|Contest Name|
 |--|--|
 |2021|[2021 Computer Engineering Work Contest](https://cse.jbnu.ac.kr/cse/3585/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NlJTJGNTM3JTJGMjU0MjgyJTJGYXJ0Y2xWaWV3LmRvJTNG) 🥈|
 ---
 # Ability
+- ### Tech Stack
 
 <!--
 **jumincho/jumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
