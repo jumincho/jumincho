@@ -20,9 +20,9 @@
 |2021|[2021 Computer Engineering Work Contest](https://cse.jbnu.ac.kr/cse/3585/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NlJTJGNTM3JTJGMjU0MjgyJTJGYXJ0Y2xWaWV3LmRvJTNG) 🥈|
 ---
 # Ability
-- ### Tech Stack
+### Tech Stack
 **I'm Good at** : *(null) yet*😂
-**I'm Studying** :
+**I'm Studying** : 
 **Once I've Used** : 
 
 <!--
