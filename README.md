@@ -12,8 +12,7 @@
 |Year|Duty|
 |--|--|
 |2015 ~ 2016|Class Vice-President *(in high school)*|
-|2021|School Vice-President *(in college major)*|
-[2021 컴퓨터공학부 학생회](https://instagram.com/jbnucse?igshid=YmMyMTA2M2Y=)
+|[2021 컴퓨터공학부 학생회](https://instagram.com/jbnucse?igshid=YmMyMTA2M2Y=)|School Vice-President *(in college major)*|
 
 <!--
 **jumincho/jumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
