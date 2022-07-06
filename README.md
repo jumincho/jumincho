@@ -22,7 +22,9 @@
 # Ability
 ### Tech Stack
 **I'm Good at** : *(null) yet*😂
-**I'm Studying** : 
+
+**I'm Studying** : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 **Once I've Used** : 
 
 <!--
