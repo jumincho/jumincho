@@ -17,7 +17,7 @@
 ### Winning Prize
 |Year|Contest Name|
 |--|--|
-|2021|[2021 Computer Engineering Work Contest](https://cse.jbnu.ac.kr/cse/3585/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NlJTJGNTM3JTJGMjU0MjgyJTJGYXJ0Y2xWaWV3LmRvJTNG)🥈|
+|2021|[2021 Computer Engineering Work Contest](https://cse.jbnu.ac.kr/cse/3585/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NlJTJGNTM3JTJGMjU0MjgyJTJGYXJ0Y2xWaWV3LmRvJTNG) 🥈|
 
 <!--
 **jumincho/jumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
