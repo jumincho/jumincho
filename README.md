@@ -6,10 +6,8 @@
 ## History
 |Year|Affiliation|
 |--|--|
-|2018.03 ~ 2024.02|Cell2|
-|Cell1|Cell2|
-|Cell1|Cell2|
-|Cell1|Cell2|
+|2018.03 ~ 2024.02|Jeonbuk National University|
+|2019.04 ~ 2021.02|Republic of Korea Air Force (Loan)|
 
 <!--
 **jumincho/jumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
