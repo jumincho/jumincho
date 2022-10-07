@@ -23,7 +23,7 @@
 - ### 🔨Tech Stack🔨
 #### **💪I'm Good at💪** : 
 #### **🐣I'm Studying🐥** : 
-#### **✏Once I've Used✏** : 
+#### **✏Once I've Used✏** : <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 <!--
 **jumincho/jumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
