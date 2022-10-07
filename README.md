@@ -21,8 +21,8 @@
 ---
 # Ability
 - ### 🔨Tech Stack🔨
-#### **💪I'm Good at💪** : *(null) yet*😂
-#### **🐣I'm Studying🐥** : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+#### **💪I'm Good at💪** : 
+#### **🐣I'm Studying🐥** : 
 #### **✏Once I've Used✏** : 
 
 <!--
