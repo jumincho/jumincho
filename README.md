@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Jumin%20Cho&fontSize=48&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
 
-# Profile
-- **Age** : 24.3315 *(11/08/2022)*
-- **Height** : 5.94 ft *(Rounded)*
-- **Weight** : 159 lbs *(Desired)*
+# **Profile**
+- ### **Age** : 24.3315 *(November 8, 2022)*
+- ### **Height** : 5' 11'' *(Rounded Down)*
+- ### **Weight** : 165 lbs *(Desired)*
 - <a href="https://instagram.com/jumin_cho?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> </a><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjumincho&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 ---
 # History
