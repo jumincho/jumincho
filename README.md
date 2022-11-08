@@ -15,10 +15,10 @@
 |2018.03 ~ |Jeonbuk National Univ. (Div. of Computer Science & Eng.)|
 |2019.04 ~ 2021.02|Republic of Korea Air Force *(Loan)*|
 - ### Leader Experience
-|Year|Duty|
+|Year|Position|
 |--|--|
-|2015 ~ 2016|Class Vice-President *(in high school)*|
-|2021|[School Vice-President *(in college major)*](https://instagram.com/jbnucse?igshid=YmMyMTA2M2Y=)|
+|2015 ~ 2016|Class Vice-President (in high school)|
+|2021|[A Vice Chairman of Div. of Computer Science & Eng. Students](https://instagram.com/jbnucse?igshid=YmMyMTA2M2Y=)|
 - ### Winning Prize
 |Year|Contest Name|
 |--|--|
@@ -29,18 +29,3 @@
 #### **💪I'm Good at💪** : 
 #### **🐣I'm Studying🐥** : 
 #### **✏Once I've Used✏** : <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-<!--
-**jumincho/jumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
