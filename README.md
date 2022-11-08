@@ -17,14 +17,21 @@
 - ### Leader Experience
 |Year|Position|
 |--|--|
-|2015 ~ 2016|Class Vice President (In High School)|
 |2021|[Vice Chairman of Div. of Computer Science & Eng. Students](https://instagram.com/jbnucse?igshid=YmMyMTA2M2Y=)|
+|2015 ~ 2016|Class Vice President (In High School)|
 - ### Prize Winning
 |Year|Contest Name|
 |--|--|
 |2021|[2021 Div. of Computer Science & Eng. Work Competition](https://cse.jbnu.ac.kr/cse/3585/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NlJTJGNTM3JTJGMjU0MjgyJTJGYXJ0Y2xWaWV3LmRvJTNG) 🥈|
 ---
 # Ability
+- ### Certificate
+|Year|Certificate Name|
+|--|--|
+|2023 *(Scheduled)*|AI Certificate for Everyone(https://aice.study/certi/main)|
+|2023 *(Scheduled)*|Advanced Data Analytics Semi-Professional)|
+|~~2006 ~ 2008~~|~~Word Processor Specialist Level 1 ~ 3~~|
+
 - ### 🔨Tech Stack🔨
 #### **💪I'm Good at💪** : 
 #### **🐣I'm Studying🐥** : 
