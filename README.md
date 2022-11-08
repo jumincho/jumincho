@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Jumin%20Cho&fontSize=48&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Jumin%20Who?&fontSize=48&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
 
 # **Profile**
 - ### **Age** : 24.3315 *(November 8, 2022)*
