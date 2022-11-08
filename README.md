@@ -7,10 +7,12 @@
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjumincho&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jumincho)](https://solved.ac/jumincho)
 ---
-# History
-|Year|Affiliation|
+# **Cho's Story**
+- ### Affiliation
+|Year|Organization|
 |--|--|
-|2018.03 ~ 2024.02|Jeonbuk National University|
+|2022.03 ~ |Jeonbuk National University|
+|2018.03 ~ |Jeonbuk National University Div. of Computer Science & Eng.|
 |2019.04 ~ 2021.02|Republic of Korea Air Force *(Loan)*|
 - ### Leader Experience
 |Year|Duty|
