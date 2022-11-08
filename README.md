@@ -17,8 +17,8 @@
 - ### Leader Experience
 |Year|Position|
 |--|--|
-|2015 ~ 2016|Class Vice-President (in high school)|
-|2021|[A Vice Chairman of Div. of Computer Science & Eng. Students](https://instagram.com/jbnucse?igshid=YmMyMTA2M2Y=)|
+|2015 ~ 2016|Class Vice President (In High School)|
+|2021|[Vice Chairman of Div. of Computer Science & Eng. Students](https://instagram.com/jbnucse?igshid=YmMyMTA2M2Y=)|
 - ### Winning Prize
 |Year|Contest Name|
 |--|--|
