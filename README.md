@@ -11,8 +11,8 @@
 - ### Affiliation
 |Year|Organization|
 |--|--|
-|2022.03 ~ |Jeonbuk National University|
-|2018.03 ~ |Jeonbuk National University Div. of Computer Science & Eng.|
+|2022.03 ~ |Jeonbuk National Univ. (Spatial Information & AI Linked major)|
+|2018.03 ~ |Jeonbuk National Univ. (Div. of Computer Science & Eng.)|
 |2019.04 ~ 2021.02|Republic of Korea Air Force *(Loan)*|
 - ### Leader Experience
 |Year|Duty|
