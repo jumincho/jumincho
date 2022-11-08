@@ -25,7 +25,7 @@
 |2021|[2021 Div. of Computer Science & Eng. Work Competition](https://cse.jbnu.ac.kr/cse/3585/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NlJTJGNTM3JTJGMjU0MjgyJTJGYXJ0Y2xWaWV3LmRvJTNG) 🥈|
 ---
 # Ability
-- ### Certificate :credit_card:
+- ### Certificate :hammer:
 |Year|Certificate Name|
 |--|--|
 |2023 *(Scheduled)*|[AI Certificate for Everyone](https://aice.study/certi/main)|
@@ -33,8 +33,11 @@
 |2018|Scoring Toeic 700 Points|
 |~~2006 ~ 2008~~|~~Word Processor Specialist Level 1 ~ 3~~|
 
-- ### Tech Stack :hammer:
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/c++-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+- ### Tech Stack :books:
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
+
+<img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"><img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/r studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
