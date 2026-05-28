@@ -189,16 +189,16 @@
     </text>
   </g>
 
-  <!-- ============== STAGE 2: JBNU CLUB (3-6s) ============== -->
+  <!-- ============== STAGE 2: PH.D POSITION (3-6s) ============== -->
   <g transform="translate(500 220)">
     <g opacity="0">
       <animate attributeName="opacity"
                values="0; 0; 0; 1; 1; 0; 0; 0; 0"
                keyTimes="0; 0.18; 0.21; 0.24; 0.39; 0.43; 0.6; 0.85; 1"
                dur="14s" repeatCount="indefinite"/>
-      <use href="#jbnu">
+      <use href="#phd">
         <animateTransform attributeName="transform" type="scale"
-                          values="0.2; 1.15; 1; 1; 0.6"
+                          values="0.2; 1.2; 1; 1; 0.6"
                           keyTimes="0.2; 0.3; 0.38; 0.42; 0.46"
                           dur="14s" repeatCount="indefinite"/>
       </use>
@@ -206,12 +206,12 @@
   </g>
   <g transform="translate(500 360)">
     <text text-anchor="middle" font-family="Verdana, sans-serif"
-          font-size="22" font-weight="900" letter-spacing="6" fill="#ffffff" opacity="0">
+          font-size="22" font-weight="900" letter-spacing="8" fill="#ffffff" opacity="0">
       <animate attributeName="opacity"
                values="0; 0; 0; 0; 1; 1; 0; 0; 0"
                keyTimes="0; 0.19; 0.22; 0.26; 0.3; 0.39; 0.45; 0.8; 1"
                dur="14s" repeatCount="indefinite"/>
-      JEONBUK NATIONAL UNIVERSITY
+      AI RESEARCHER
     </text>
   </g>
   <g transform="translate(500 395)">
@@ -221,20 +221,20 @@
                values="0; 0; 0; 0; 1; 1; 0; 0; 0"
                keyTimes="0; 0.19; 0.22; 0.27; 0.31; 0.39; 0.45; 0.8; 1"
                dur="14s" repeatCount="indefinite"/>
-      NLLLab · Computer Science
+      Position · Ph.D Candidate
     </text>
   </g>
 
-  <!-- ============== STAGE 3: PH.D POSITION (6-9s) ============== -->
+  <!-- ============== STAGE 3: JBNU CLUB (6-9s) ============== -->
   <g transform="translate(500 220)">
     <g opacity="0">
       <animate attributeName="opacity"
                values="0; 0; 0; 0; 0; 1; 1; 0; 0"
                keyTimes="0; 0.4; 0.42; 0.43; 0.44; 0.46; 0.62; 0.66; 1"
                dur="14s" repeatCount="indefinite"/>
-      <use href="#phd">
+      <use href="#jbnu">
         <animateTransform attributeName="transform" type="scale"
-                          values="0.2; 1.2; 1; 1; 0.6"
+                          values="0.2; 1.15; 1; 1; 0.6"
                           keyTimes="0.42; 0.5; 0.56; 0.62; 0.66"
                           dur="14s" repeatCount="indefinite"/>
       </use>
@@ -242,12 +242,12 @@
   </g>
   <g transform="translate(500 360)">
     <text text-anchor="middle" font-family="Verdana, sans-serif"
-          font-size="22" font-weight="900" letter-spacing="8" fill="#ffffff" opacity="0">
+          font-size="22" font-weight="900" letter-spacing="6" fill="#ffffff" opacity="0">
       <animate attributeName="opacity"
                values="0; 0; 0; 0; 0; 1; 1; 0; 0"
                keyTimes="0; 0.4; 0.42; 0.43; 0.46; 0.5; 0.62; 0.66; 1"
                dur="14s" repeatCount="indefinite"/>
-      AI RESEARCHER
+      JEONBUK NATIONAL UNIVERSITY
     </text>
   </g>
   <g transform="translate(500 395)">
@@ -257,7 +257,7 @@
                values="0; 0; 0; 0; 0; 1; 1; 0; 0"
                keyTimes="0; 0.4; 0.42; 0.43; 0.46; 0.5; 0.62; 0.66; 1"
                dur="14s" repeatCount="indefinite"/>
-      Advisor · Prof. Hyun-Je Song
+      NLLLab · Advisor Prof. Hyun-Je Song
     </text>
   </g>
 
