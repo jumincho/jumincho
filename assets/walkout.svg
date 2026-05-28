@@ -1,0 +1,376 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" width="1000" height="480" role="img" aria-label="FIFA-style walkout animation: Korea -> JBNU -> Ph.D -> Player Card">
+  <title>Jumin Cho — FC Walkout</title>
+  <desc>An FC-series style walkout: Nation (Korea) → Club (Jeonbuk National University) → Position (Ph.D Student) → Player Card (Jumin Cho).</desc>
+
+  <defs>
+    <!-- Backgrounds -->
+    <radialGradient id="bg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#1a1a3a"/>
+      <stop offset="60%" stop-color="#0a0a1a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+
+    <!-- Gold card gradient -->
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#fff7c2"/>
+      <stop offset="35%" stop-color="#fde68a"/>
+      <stop offset="65%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+
+    <linearGradient id="goldShine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="rgba(255,255,255,0)"/>
+      <stop offset="50%" stop-color="rgba(255,255,255,0.85)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+    </linearGradient>
+
+    <linearGradient id="cardInner" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#fff5b0"/>
+      <stop offset="100%" stop-color="#e0a019"/>
+    </linearGradient>
+
+    <!-- Glow filters -->
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+
+    <!-- Burst rays -->
+    <g id="rays">
+      <g stroke="rgba(253, 224, 71, 0.6)" stroke-width="2">
+        <line x1="0" y1="0" x2="0" y2="-260"/>
+        <line x1="0" y1="0" x2="180" y2="-180"/>
+        <line x1="0" y1="0" x2="260" y2="0"/>
+        <line x1="0" y1="0" x2="180" y2="180"/>
+        <line x1="0" y1="0" x2="0" y2="260"/>
+        <line x1="0" y1="0" x2="-180" y2="180"/>
+        <line x1="0" y1="0" x2="-260" y2="0"/>
+        <line x1="0" y1="0" x2="-180" y2="-180"/>
+      </g>
+      <g stroke="rgba(251, 191, 36, 0.45)" stroke-width="1.5">
+        <line x1="0" y1="0" x2="90"  y2="-240"/>
+        <line x1="0" y1="0" x2="240" y2="-90"/>
+        <line x1="0" y1="0" x2="240" y2="90"/>
+        <line x1="0" y1="0" x2="90"  y2="240"/>
+        <line x1="0" y1="0" x2="-90" y2="240"/>
+        <line x1="0" y1="0" x2="-240" y2="90"/>
+        <line x1="0" y1="0" x2="-240" y2="-90"/>
+        <line x1="0" y1="0" x2="-90" y2="-240"/>
+      </g>
+    </g>
+
+    <!-- Korean flag (Taegukgi) -->
+    <g id="flag-kr">
+      <rect x="-110" y="-72" width="220" height="144" fill="#ffffff" stroke="rgba(0,0,0,0.15)" stroke-width="1"/>
+      <!-- Taegeuk -->
+      <g transform="rotate(-33)">
+        <circle cx="0" cy="0" r="36" fill="#cd2e3a"/>
+        <path d="M -36 0 A 36 36 0 0 1 36 0 A 18 18 0 0 1 0 0 A 18 18 0 0 0 -36 0 Z" fill="#0047a0"/>
+      </g>
+      <!-- Geon trigram (top-left, three solid bars) -->
+      <g fill="#000" transform="translate(-78 -50) rotate(-56.31)">
+        <rect x="-12" y="-9" width="24" height="4"/>
+        <rect x="-12" y="-2" width="24" height="4"/>
+        <rect x="-12" y="5"  width="24" height="4"/>
+      </g>
+      <!-- Yi trigram (top-right) -->
+      <g fill="#000" transform="translate(78 -50) rotate(56.31)">
+        <rect x="-12" y="-9" width="24" height="4"/>
+        <rect x="-12" y="-2" width="10" height="4"/>
+        <rect x="2"   y="-2" width="10" height="4"/>
+        <rect x="-12" y="5"  width="24" height="4"/>
+      </g>
+      <!-- Gam trigram (bottom-left) -->
+      <g fill="#000" transform="translate(-78 50) rotate(56.31)">
+        <rect x="-12" y="-9" width="10" height="4"/>
+        <rect x="2"   y="-9" width="10" height="4"/>
+        <rect x="-12" y="-2" width="24" height="4"/>
+        <rect x="-12" y="5"  width="10" height="4"/>
+        <rect x="2"   y="5"  width="10" height="4"/>
+      </g>
+      <!-- Gon trigram (bottom-right, three broken bars) -->
+      <g fill="#000" transform="translate(78 50) rotate(-56.31)">
+        <rect x="-12" y="-9" width="10" height="4"/>
+        <rect x="2"   y="-9" width="10" height="4"/>
+        <rect x="-12" y="-2" width="10" height="4"/>
+        <rect x="2"   y="-2" width="10" height="4"/>
+        <rect x="-12" y="5"  width="10" height="4"/>
+        <rect x="2"   y="5"  width="10" height="4"/>
+      </g>
+    </g>
+
+    <!-- JBNU shield -->
+    <g id="jbnu">
+      <path d="M -80 -90 L 80 -90 L 80 50 Q 80 90 0 110 Q -80 90 -80 50 Z"
+            fill="#0a3d62" stroke="url(#gold)" stroke-width="3"/>
+      <path d="M -68 -78 L 68 -78 L 68 48 Q 68 80 0 96 Q -68 80 -68 48 Z"
+            fill="none" stroke="rgba(253,224,71,0.5)" stroke-width="1"/>
+      <text x="0" y="-30" text-anchor="middle" font-family="Georgia, serif"
+            font-size="40" font-weight="900" fill="url(#gold)">J</text>
+      <text x="0" y="14" text-anchor="middle" font-family="Georgia, serif"
+            font-size="40" font-weight="900" fill="url(#gold)">B</text>
+      <text x="0" y="58" text-anchor="middle" font-family="Georgia, serif"
+            font-size="40" font-weight="900" fill="url(#gold)">N</text>
+      <text x="0" y="94" text-anchor="middle" font-family="Georgia, serif"
+            font-size="18" font-weight="700" fill="rgba(253,224,71,0.85)">EST.1947</text>
+    </g>
+
+    <!-- Position badge: PhD -->
+    <g id="phd">
+      <circle cx="0" cy="0" r="100" fill="#1f2937" stroke="url(#gold)" stroke-width="4"/>
+      <circle cx="0" cy="0" r="92"  fill="none" stroke="rgba(253,224,71,0.35)" stroke-width="1"/>
+      <text x="0" y="-12" text-anchor="middle" font-family="Georgia, serif"
+            font-size="48" font-weight="900" fill="url(#gold)">Ph.D</text>
+      <text x="0" y="26" text-anchor="middle" font-family="Verdana, sans-serif"
+            font-size="14" font-weight="700" letter-spacing="3" fill="#e5e7eb">CANDIDATE</text>
+      <text x="0" y="50" text-anchor="middle" font-family="Verdana, sans-serif"
+            font-size="11" font-weight="600" letter-spacing="2" fill="rgba(229,231,235,0.7)">COMPUTER SCIENCE</text>
+    </g>
+  </defs>
+
+  <!-- ============================================================
+       SCENE BACKGROUND
+       Full cycle = 14s, loops infinitely.
+       Stages:
+         0–3s   : Nation (Korea)
+         3–6s   : Club (JBNU)
+         6–9s   : Position (Ph.D)
+         9–14s  : Player Card
+       ============================================================ -->
+  <rect width="1000" height="480" fill="url(#bg)"/>
+
+  <!-- Pulsing background glow -->
+  <circle cx="500" cy="240" r="240" fill="rgba(251,191,36,0.18)" filter="url(#blur)">
+    <animate attributeName="r" values="160;280;160" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.15;0.35;0.15" dur="14s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Spinning ray bursts (always behind subjects) -->
+  <g transform="translate(500 240)" opacity="0.55">
+    <use href="#rays">
+      <animateTransform attributeName="transform" type="rotate"
+                        from="0" to="360" dur="14s" repeatCount="indefinite"/>
+    </use>
+  </g>
+  <g transform="translate(500 240)" opacity="0.4">
+    <use href="#rays">
+      <animateTransform attributeName="transform" type="rotate"
+                        from="360" to="0" dur="22s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- ============== STAGE 1: KOREA FLAG (0-3s) ============== -->
+  <g transform="translate(500 220)">
+    <g opacity="0">
+      <animate attributeName="opacity"
+               values="0; 1; 1; 0; 0; 0; 0; 0; 0"
+               keyTimes="0; 0.05; 0.17; 0.22; 0.4; 0.6; 0.8; 0.95; 1"
+               dur="14s" repeatCount="indefinite"/>
+      <g>
+        <use href="#flag-kr">
+          <animateTransform attributeName="transform" type="scale"
+                            values="0.2; 1.15; 1; 1; 0.6"
+                            keyTimes="0; 0.4; 0.55; 0.75; 1"
+                            dur="14s" repeatCount="indefinite"/>
+        </use>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(500 360)">
+    <text text-anchor="middle" font-family="Verdana, sans-serif"
+          font-size="26" font-weight="900" letter-spacing="8" fill="#ffffff" opacity="0">
+      <animate attributeName="opacity"
+               values="0; 0; 1; 1; 0; 0; 0; 0; 0"
+               keyTimes="0; 0.04; 0.08; 0.18; 0.22; 0.5; 0.7; 0.9; 1"
+               dur="14s" repeatCount="indefinite"/>
+      REPUBLIC OF KOREA
+    </text>
+  </g>
+
+  <!-- ============== STAGE 2: JBNU CLUB (3-6s) ============== -->
+  <g transform="translate(500 220)">
+    <g opacity="0">
+      <animate attributeName="opacity"
+               values="0; 0; 0; 1; 1; 0; 0; 0; 0"
+               keyTimes="0; 0.18; 0.21; 0.24; 0.39; 0.43; 0.6; 0.85; 1"
+               dur="14s" repeatCount="indefinite"/>
+      <use href="#jbnu">
+        <animateTransform attributeName="transform" type="scale"
+                          values="0.2; 1.15; 1; 1; 0.6"
+                          keyTimes="0.2; 0.3; 0.38; 0.42; 0.46"
+                          dur="14s" repeatCount="indefinite"/>
+      </use>
+    </g>
+  </g>
+  <g transform="translate(500 360)">
+    <text text-anchor="middle" font-family="Verdana, sans-serif"
+          font-size="22" font-weight="900" letter-spacing="6" fill="#ffffff" opacity="0">
+      <animate attributeName="opacity"
+               values="0; 0; 0; 0; 1; 1; 0; 0; 0"
+               keyTimes="0; 0.19; 0.22; 0.26; 0.3; 0.39; 0.45; 0.8; 1"
+               dur="14s" repeatCount="indefinite"/>
+      JEONBUK NATIONAL UNIVERSITY
+    </text>
+  </g>
+  <g transform="translate(500 395)">
+    <text text-anchor="middle" font-family="Verdana, sans-serif"
+          font-size="14" font-weight="700" letter-spacing="3" fill="rgba(253,224,71,0.85)" opacity="0">
+      <animate attributeName="opacity"
+               values="0; 0; 0; 0; 1; 1; 0; 0; 0"
+               keyTimes="0; 0.19; 0.22; 0.27; 0.31; 0.39; 0.45; 0.8; 1"
+               dur="14s" repeatCount="indefinite"/>
+      NLLLab · Computer Science
+    </text>
+  </g>
+
+  <!-- ============== STAGE 3: PH.D POSITION (6-9s) ============== -->
+  <g transform="translate(500 220)">
+    <g opacity="0">
+      <animate attributeName="opacity"
+               values="0; 0; 0; 0; 0; 1; 1; 0; 0"
+               keyTimes="0; 0.4; 0.42; 0.43; 0.44; 0.46; 0.62; 0.66; 1"
+               dur="14s" repeatCount="indefinite"/>
+      <use href="#phd">
+        <animateTransform attributeName="transform" type="scale"
+                          values="0.2; 1.2; 1; 1; 0.6"
+                          keyTimes="0.42; 0.5; 0.56; 0.62; 0.66"
+                          dur="14s" repeatCount="indefinite"/>
+      </use>
+    </g>
+  </g>
+  <g transform="translate(500 360)">
+    <text text-anchor="middle" font-family="Verdana, sans-serif"
+          font-size="22" font-weight="900" letter-spacing="8" fill="#ffffff" opacity="0">
+      <animate attributeName="opacity"
+               values="0; 0; 0; 0; 0; 1; 1; 0; 0"
+               keyTimes="0; 0.4; 0.42; 0.43; 0.46; 0.5; 0.62; 0.66; 1"
+               dur="14s" repeatCount="indefinite"/>
+      AI RESEARCHER
+    </text>
+  </g>
+  <g transform="translate(500 395)">
+    <text text-anchor="middle" font-family="Verdana, sans-serif"
+          font-size="14" font-weight="700" letter-spacing="3" fill="rgba(253,224,71,0.85)" opacity="0">
+      <animate attributeName="opacity"
+               values="0; 0; 0; 0; 0; 1; 1; 0; 0"
+               keyTimes="0; 0.4; 0.42; 0.43; 0.46; 0.5; 0.62; 0.66; 1"
+               dur="14s" repeatCount="indefinite"/>
+      Advisor · Prof. Hyun-Je Song
+    </text>
+  </g>
+
+  <!-- ============== STAGE 4: PLAYER CARD (9-14s) ============== -->
+  <g transform="translate(500 240)" opacity="0">
+    <animate attributeName="opacity"
+             values="0; 0; 0; 0; 0; 0; 1; 1; 1"
+             keyTimes="0; 0.55; 0.6; 0.63; 0.65; 0.66; 0.68; 0.95; 1"
+             dur="14s" repeatCount="indefinite"/>
+
+    <!-- Whoosh light when the card lands -->
+    <circle r="0" fill="rgba(255,255,255,0.7)" filter="url(#blur)">
+      <animate attributeName="r"
+               values="0; 0; 0; 0; 0; 280; 0; 0; 0"
+               keyTimes="0; 0.6; 0.63; 0.65; 0.66; 0.67; 0.7; 0.95; 1"
+               dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+               values="0; 0; 0; 0; 0; 1; 0; 0; 0"
+               keyTimes="0; 0.6; 0.63; 0.65; 0.66; 0.67; 0.72; 0.95; 1"
+               dur="14s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- The card itself -->
+    <g>
+      <animateTransform attributeName="transform" type="scale"
+                        values="0.3; 0.3; 0.3; 0.3; 0.3; 0.3; 1.2; 1; 1"
+                        keyTimes="0; 0.55; 0.6; 0.63; 0.65; 0.66; 0.68; 0.74; 1"
+                        dur="14s" repeatCount="indefinite"/>
+
+      <!-- Card outer (gold) -->
+      <rect x="-130" y="-200" width="260" height="380" rx="18"
+            fill="url(#gold)" stroke="#fef3c7" stroke-width="2"/>
+
+      <!-- Inner panel -->
+      <rect x="-118" y="-188" width="236" height="356" rx="12"
+            fill="url(#cardInner)" stroke="rgba(120,53,15,0.4)" stroke-width="1"/>
+
+      <!-- Top-left: Rating + Position -->
+      <text x="-95" y="-130" font-family="Verdana, sans-serif" font-size="56"
+            font-weight="900" fill="#3b1d05">99</text>
+      <text x="-95" y="-100" font-family="Verdana, sans-serif" font-size="18"
+            font-weight="900" fill="#3b1d05" letter-spacing="1">PHD</text>
+
+      <!-- Korean flag mini -->
+      <g transform="translate(-86 -78) scale(0.18)">
+        <use href="#flag-kr"/>
+      </g>
+
+      <!-- JBNU shield mini -->
+      <g transform="translate(-86 -28) scale(0.20)">
+        <use href="#jbnu"/>
+      </g>
+
+      <!-- Profile silhouette -->
+      <g transform="translate(38 -90)">
+        <circle r="44" fill="#fef3c7" stroke="#92400e" stroke-width="2"/>
+        <circle cy="-12" r="16" fill="#7c2d12"/>
+        <path d="M -28 28 Q -28 -2 0 -2 Q 28 -2 28 28 Z" fill="#7c2d12"/>
+      </g>
+
+      <!-- Name -->
+      <text x="0" y="40" text-anchor="middle" font-family="Verdana, sans-serif"
+            font-size="22" font-weight="900" fill="#3b1d05" letter-spacing="2">JUMIN CHO</text>
+      <line x1="-90" y1="50" x2="90" y2="50" stroke="#92400e" stroke-width="1.5"/>
+
+      <!-- Stats -->
+      <g font-family="Verdana, sans-serif" fill="#3b1d05">
+        <text x="-72" y="80"  font-size="18" font-weight="900">99</text>
+        <text x="-50" y="80"  font-size="11" font-weight="700">NLP</text>
+        <text x="20"  y="80"  font-size="18" font-weight="900">95</text>
+        <text x="42"  y="80"  font-size="11" font-weight="700">RAG</text>
+
+        <text x="-72" y="108" font-size="18" font-weight="900">93</text>
+        <text x="-50" y="108" font-size="11" font-weight="700">LLM</text>
+        <text x="20"  y="108" font-size="18" font-weight="900">90</text>
+        <text x="42"  y="108" font-size="11" font-weight="700">RES</text>
+
+        <text x="-72" y="136" font-size="18" font-weight="900">88</text>
+        <text x="-50" y="136" font-size="11" font-weight="700">DEV</text>
+        <text x="20"  y="136" font-size="18" font-weight="900">99</text>
+        <text x="42"  y="136" font-size="11" font-weight="700">DRM</text>
+      </g>
+
+      <text x="0" y="170" text-anchor="middle" font-family="Verdana, sans-serif"
+            font-size="10" font-weight="700" fill="#7c2d12" letter-spacing="3">JEONBUK NATIONAL UNIVERSITY</text>
+
+      <!-- Animated shine sweep -->
+      <rect x="-130" y="-200" width="260" height="380" rx="18" fill="url(#goldShine)" opacity="0">
+        <animate attributeName="opacity"
+                 values="0; 0; 0; 0; 0; 0; 0.6; 0; 0"
+                 keyTimes="0; 0.55; 0.6; 0.65; 0.7; 0.72; 0.78; 0.85; 1"
+                 dur="14s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate"
+                          values="-300 0; -300 0; -300 0; -300 0; -300 0; -300 0; 300 0; 300 0; 300 0"
+                          keyTimes="0; 0.55; 0.6; 0.65; 0.7; 0.72; 0.85; 0.95; 1"
+                          dur="14s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- Card subtitle -->
+    <text x="0" y="220" text-anchor="middle" font-family="Verdana, sans-serif"
+          font-size="11" font-weight="700" fill="rgba(253,224,71,0.8)" letter-spacing="6" opacity="0">
+      <animate attributeName="opacity"
+               values="0; 0; 0; 0; 0; 0; 0; 1; 1"
+               keyTimes="0; 0.5; 0.55; 0.6; 0.65; 0.7; 0.75; 0.8; 1"
+               dur="14s" repeatCount="indefinite"/>
+      A DREAMER OF AN AI EXPERT
+    </text>
+  </g>
+
+  <!-- Footer caption (always visible) -->
+  <text x="500" y="465" text-anchor="middle" font-family="Verdana, sans-serif"
+        font-size="10" font-weight="700" fill="rgba(255,255,255,0.35)" letter-spacing="3">
+    FC WALKOUT · POWERED BY SVG / SMIL
+  </text>
+</svg>
