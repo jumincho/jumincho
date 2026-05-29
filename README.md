@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- FC-Online "pack opening" parody (looping animation) — full interactive version lives on the portfolio site -->
-<img src="./assets/pack.svg" width="100%" alt="Pack opening — JUMIN CHO, Ph.D. Candidate" />
+<img src="./assets/pack.svg" width="100%" alt="Pack opening — JUMIN CHO, Ph.D. Student" />
 
 <br/>
 
@@ -65,7 +65,7 @@ jumin@jbnu:~$ uptime
     <th align="left">🎓 Education — <em>Jeonbuk National University</em></th>
     <th align="left">When</th>
   </tr>
-  <tr><td>Ph.D. Candidate, Computer Science</td><td><code>2026.03 – 2029.02</code></td></tr>
+  <tr><td>Ph.D. Student, Computer Science</td><td><code>2026.03 – 2029.02</code></td></tr>
   <tr><td>M.S., Computer Science</td><td><code>2024.03 – 2026.02</code></td></tr>
   <tr><td>B.S., Computer Science</td><td><code>2018.03 – 2024.02</code></td></tr>
 </table>
