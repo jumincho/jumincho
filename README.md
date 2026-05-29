@@ -38,12 +38,12 @@ jumin@jbnu:~$ whoami
 
 jumin@jbnu:~$ cat ./role.txt
 → AI Researcher · Ph.D. Student @ Jeonbuk National University
-→ Natural Language & Learning (NLL) Lab · Advisor: Prof. Hyun-Je Song
+→ NLL Lab · Advisor: Prof. Hyun-Je Song
 
 jumin@jbnu:~$ ls ./research_focus/
 → natural-language-processing/   retrieval-augmented-generation/
 → structured-reasoning/          causality-based-reporting/
-→ radiology-report-generation/   large-language-models/
+→ radiology-report-generation/   ntcir-18-hidden-rad/
 
 jumin@jbnu:~$ uptime
 → B.S. → M.S. → Ph.D. · all in Computer Science · all @ JBNU · since 2018
