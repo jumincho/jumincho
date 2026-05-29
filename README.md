@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3600&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=46&lines=A+Dreamer+of+an+Artificial+Intelligence+Expert;AI+Researcher+%C2%B7+PhD+Student+%40+Jeonbuk+National+University;NLP+%C2%B7+Retrieval-Augmented+Generation+%C2%B7+Structured+Reasoning;Causality-Based+Radiology+Reporting+%C2%B7+NTCIR-18+HIDDEN-RAD" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3600&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=46&lines=A+Dreamer+of+an+Artificial+Intelligence+Expert;AI+Researcher+%C2%B7+PhD+Student+%40+Jeonbuk+National+University;Computer+Science+%C2%B7+Jeonju%2C+Republic+of+Korea" alt="Typing tagline" />
 </a>
 
 <br/>
@@ -40,38 +40,15 @@ jumin@jbnu:~$ cat ./role.txt
 → AI Researcher · Ph.D. Student @ Jeonbuk National University
 → NLL Lab · Advisor: Prof. Hyun-Je Song
 
-jumin@jbnu:~$ ls ./research_focus/
-→ natural-language-processing/   retrieval-augmented-generation/
-→ structured-reasoning/          causality-based-reporting/
-→ radiology-report-generation/   ntcir-18-hidden-rad/
-
 jumin@jbnu:~$ uptime
 → B.S. → M.S. → Ph.D. · all in Computer Science · all @ JBNU · since 2018
 ```
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-## 🧠 &nbsp;Research — *what I actually build*
+## 📄 &nbsp;Publication
 
-> **Optimizing Causality-Based Radiology Reporting with Retrieval-Augmented and
-> Structured Reasoning Approaches for the NTCIR-18 HIDDEN-RAD Task**
-
-My work lives at the intersection of **retrieval-augmented generation**, **structured
-reasoning**, and **causality** — applied to one of the hardest grounded-generation
-problems out there: turning medical findings into faithful radiology reports.
-
-```mermaid
-flowchart LR
-    A([🩻 Radiology<br/>Findings]):::in --> B[🔎 Retrieval-Augmented<br/>Context]:::rag
-    B --> C{🧩 Causality-Based<br/>Structured Reasoning}:::reason
-    C --> D([📄 Faithful<br/>Radiology Report]):::out
-    C -. self-check .-> B
-
-    classDef in fill:#0a0a1e,stroke:#6366f1,stroke-width:2px,color:#e7e9ff;
-    classDef rag fill:#13132b,stroke:#a855f7,stroke-width:2px,color:#e7e9ff;
-    classDef reason fill:#1b1330,stroke:#f59e0b,stroke-width:2px,color:#fde9c8;
-    classDef out fill:#0a0a1e,stroke:#f94001,stroke-width:2px,color:#ffe2d6;
-```
+> *Optimizing Causality-Based Radiology Reporting with Retrieval-Augmented and Structured Reasoning Approaches for the NTCIR-18 HIDDEN-RAD Task*
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
@@ -131,7 +108,7 @@ flowchart LR
 
 <div align="center">
 
-> *“A Dreamer of an Artificial Intelligence Expert.”* — chasing reasoning systems that **understand**, not just predict.
+> *“A Dreamer of an Artificial Intelligence Expert.”*
 
 <a href="https://www.linkedin.com/in/jumin-cho-42b126338"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://jumincho.github.io/juminwho/"><img src="https://img.shields.io/badge/Portfolio-0b0a1e?style=for-the-badge&logo=react&logoColor=61dafb" alt="Portfolio" /></a>
