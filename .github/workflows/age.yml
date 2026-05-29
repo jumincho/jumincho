@@ -1,0 +1,44 @@
+name: Update age
+
+# Recomputes Jumin's age once a day and rewrites the value between the
+# <!--AGE_START--> / <!--AGE_END--> markers in README.md. Fully automatic —
+# the commit is made by github-actions[bot] (does not touch the user's
+# contribution graph).
+
+on:
+  schedule:
+    - cron: "5 15 * * *" # 00:05 KST daily (15:05 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-age
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Recompute age and rewrite README
+        run: |
+          birth=$(date -u -d '1998-07-09T15:00:00Z' +%s)   # 1998-07-10 00:00 KST
+          now=$(date -u +%s)
+          age=$(awk "BEGIN { printf \"%.4f\", ($now - $birth) / (365.2425 * 86400) }")
+          echo "age = $age"
+          sed -i -E "s|<!--AGE_START-->[^<]*<!--AGE_END-->|<!--AGE_START-->${age}<!--AGE_END-->|" README.md
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update age counter"
+          git push
