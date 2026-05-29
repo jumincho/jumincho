@@ -4,6 +4,11 @@
 
 <div align="center">
 
+<!-- FC-Online "pack opening" parody (looping animation) — full interactive version lives on the portfolio site -->
+<img src="./assets/pack.svg" width="100%" alt="Pack opening — JUMIN CHO, Ph.D. Candidate" />
+
+<br/>
+
 <img src="./assets/hero.svg" width="100%" alt="Jumin Cho — A Dreamer of an Artificial Intelligence Expert · AI Researcher · PhD Student @ Jeonbuk National University" />
 
 <br/>
