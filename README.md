@@ -25,10 +25,6 @@
 <img src="https://img.shields.io/badge/🗣️_Korean_(Native)-05060f?style=flat-square&labelColor=05060f&color=f59e0b" alt="Language" />
 <img src="https://komarev.com/ghpvc/?username=jumincho&style=flat-square&color=f94001&label=PROFILE+VIEWS" alt="Profile views" />
 
-<br/>
-
-<a href="mailto:properly59@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
@@ -94,10 +90,7 @@ jumin@jbnu:~$ uptime
 
 > *“A Dreamer of an Artificial Intelligence Expert.”*
 
-<a href="https://www.linkedin.com/in/jumin-cho-42b126338"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://jumincho.github.io/juminwho/"><img src="https://img.shields.io/badge/Portfolio-0b0a1e?style=for-the-badge&logo=react&logoColor=61dafb" alt="Portfolio" /></a>
-<a href="https://sites.google.com/view/nlllab/main"><img src="https://img.shields.io/badge/NLL_Lab-1a1a2e?style=for-the-badge&logo=google&logoColor=f59e0b" alt="NLL Lab" /></a>
-<a href="mailto:properly59@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=properly59@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
