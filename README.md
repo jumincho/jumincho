@@ -8,11 +8,6 @@
 
 <br/>
 
-<!-- FC-Online "pack opening" parody (looping animation) — full interactive version lives on the portfolio site -->
-<img src="./assets/pack.svg" width="100%" alt="Pack opening — JUMIN CHO, Ph.D. Student" />
-
-<br/>
-
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3600&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=46&lines=A+Dreamer+of+an+Artificial+Intelligence+Expert;AI+Researcher+%C2%B7+PhD+Student+%40+Jeonbuk+National+University;Computer+Science+%C2%B7+Jeonju%2C+Republic+of+Korea" alt="Typing tagline" />
 </a>
@@ -85,7 +80,7 @@ jumin@jbnu:~$ uptime
 
 <div align="center">
 
-🏆 **Excellence Award**, AI-JBNU Program &nbsp;·&nbsp; 🥉 **2nd Runner-up**, CS Dept. Project Competition &nbsp;·&nbsp; 🚁 **Multi-Copter Pilot License** (Class 2)
+🏆 **Excellence Award**, AI-JBNU Program &nbsp;·&nbsp; 🥈 **2nd Runner-up**, CS Dept. Project Competition &nbsp;·&nbsp; 🚁 **Multi-Copter Pilot License** (Class 2)
 
 </div>
 
@@ -95,7 +90,7 @@ jumin@jbnu:~$ uptime
 
 <div align="center">
 
-> *“A Dreamer of an Artificial Intelligence Expert.”*
+> *날마다 좋은날*
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=properly59@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
