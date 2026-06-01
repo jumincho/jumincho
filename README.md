@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/🗣️_Korean_(Native)-05060f?style=flat-square&labelColor=05060f&color=f59e0b" alt="Language" />
 <img src="https://komarev.com/ghpvc/?username=jumincho&style=flat-square&color=f94001&label=PROFILE+VIEWS" alt="Profile views" />
 
-<p>⏱&nbsp;&nbsp;<code><!--AGE_START-->27.8939<!--AGE_END--></code>&nbsp; years alive &nbsp;·&nbsp; born 1998.07.10 (KST) &nbsp;<sub>· auto-updated daily</sub></p>
+<p>⏱&nbsp;&nbsp;<code><!--AGE_START-->27.8971<!--AGE_END--></code>&nbsp; years alive &nbsp;·&nbsp; born 1998.07.10 (KST) &nbsp;<sub>· auto-updated daily</sub></p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
