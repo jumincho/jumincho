@@ -14,7 +14,7 @@
 <a href="https://sites.google.com/view/nlllab/main"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-lab-dark.svg" /><img src="assets/button-lab-light.svg" width="161" alt="NLL Lab" /></picture></a>
 </p>
 
-<p align="center"><a href="mailto:properly59@gmail.com"><code>properly59@gmail.com</code></a></p>
+<p align="center"><code>properly59@gmail.com</code></p>
 
 <p align="center">
 <a href="https://jumincho.github.io/juminwho/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/glance-dark.svg" /><img src="assets/glance-light.svg" width="414" alt="At a glance: AI Researcher · Ph.D. Student; Computer Science, Jeonbuk National University, Natural Language Learning Lab; Jeonju, Republic of Korea." /></picture></a>
