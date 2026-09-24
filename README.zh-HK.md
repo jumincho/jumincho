@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://jumincho.github.io/juminwho/?lang=zh-HK#experience"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zh-HK/experience-dark.svg" /><img src="assets/zh-HK/experience-light.svg" width="414" alt="經歷: 研究員, 全北大學; 研究員, 全北大學; 助教, 全北大學; 研究助理, 全北大學; 學生會副主席, 全北大學計算機科學系; 防空炮兵中士（愛國者導彈系統）兼班長, 大韓民國空軍." /></picture></a>
-<a href="https://jumincho.github.io/juminwho/?lang=zh-HK#education"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zh-HK/education-dark.svg" /><img src="assets/zh-HK/education-light.svg" width="414" alt="教育背景: 計算機科學博士研究生, 全北大學; 計算機科學碩士, 全北大學; 計算機科學學士, 全北大學. 榮譽與證書: 優秀獎; 季軍; 無人多旋翼飛行器駕駛員執照（2 類）." /></picture></a>
+<a href="https://jumincho.github.io/juminwho/?lang=zh-HK#education"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zh-HK/education-dark.svg" /><img src="assets/zh-HK/education-light.svg" width="414" alt="教育背景: 計算機科學博士研究生, 全北大學; 計算機科學碩士, 全北大學; 計算機科學學士, 全北大學. 榮譽與證書: 優秀獎; 銀獎; 無人多旋翼飛行器駕駛員執照（2 類）." /></picture></a>
 </p>
 
 <p align="center">

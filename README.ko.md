@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://jumincho.github.io/juminwho/?lang=ko#experience"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/experience-dark.svg" /><img src="assets/ko/experience-light.svg" width="414" alt="경력: 연구원, 전북대학교; 연구원, 전북대학교; 수업 조교, 전북대학교; 연구 조교, 전북대학교; 학생회 부회장, 전북대학교 컴퓨터공학과; 방공포병 병장 (패트리어트 체계) · 분대장, 대한민국 공군." /></picture></a>
-<a href="https://jumincho.github.io/juminwho/?lang=ko#education"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/education-dark.svg" /><img src="assets/ko/education-light.svg" width="414" alt="학력: 컴퓨터공학 박사과정, 전북대학교; 컴퓨터공학 석사, 전북대학교; 컴퓨터공학 학사, 전북대학교. 수상 및 자격: 우수상; 3위; 무인멀티콥터 조종자 자격 (2종)." /></picture></a>
+<a href="https://jumincho.github.io/juminwho/?lang=ko#education"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/education-dark.svg" /><img src="assets/ko/education-light.svg" width="414" alt="학력: 컴퓨터공학 박사과정, 전북대학교; 컴퓨터공학 석사, 전북대학교; 컴퓨터공학 학사, 전북대학교. 수상 및 자격: 우수상; 은상; 무인멀티콥터 조종자 자격 (2종)." /></picture></a>
 </p>
 
 <p align="center">

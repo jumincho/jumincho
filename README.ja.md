@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://jumincho.github.io/juminwho/?lang=ja#experience"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ja/experience-dark.svg" /><img src="assets/ja/experience-light.svg" width="414" alt="経歴: 研究員, 全北大学校; 研究員, 全北大学校; ティーチング・アシスタント, 全北大学校; リサーチ・アシスタント, 全北大学校; 学生会副会長, 全北大学校 コンピュータサイエンス学科; 防空砲兵 兵長（パトリオット・システム）・分隊長, 大韓民国空軍." /></picture></a>
-<a href="https://jumincho.github.io/juminwho/?lang=ja#education"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ja/education-dark.svg" /><img src="assets/ja/education-light.svg" width="414" alt="学歴: 博士課程（コンピュータサイエンス）, 全北大学校; 修士（コンピュータサイエンス）, 全北大学校; 学士（コンピュータサイエンス）, 全北大学校. 受賞・資格: 優秀賞; 第3位; 無人マルチコプター操縦者資格（2種）." /></picture></a>
+<a href="https://jumincho.github.io/juminwho/?lang=ja#education"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ja/education-dark.svg" /><img src="assets/ja/education-light.svg" width="414" alt="学歴: 博士課程（コンピュータサイエンス）, 全北大学校; 修士（コンピュータサイエンス）, 全北大学校; 学士（コンピュータサイエンス）, 全北大学校. 受賞・資格: 優秀賞; 銀賞; 無人マルチコプター操縦者資格（2種）." /></picture></a>
 </p>
 
 <p align="center">
