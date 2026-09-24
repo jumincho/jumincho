@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://jumincho.github.io/juminwho/#experience"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/experience-dark.svg" /><img src="assets/en/experience-light.svg" width="414" alt="Experience: Researcher, Jeonbuk National University; Researcher, Jeonbuk National University; Teaching Assistant, Jeonbuk National University; Research Assistant, Jeonbuk National University; Vice Student Council President, Department of Computer Science, Jeonbuk National University; Air Defense Artillery Sergeant (Patriot System) &amp; Squad Leader, Republic of Korea Air Force." /></picture></a>
-<a href="https://jumincho.github.io/juminwho/#education"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/education-dark.svg" /><img src="assets/en/education-light.svg" width="414" alt="Education: Ph.D. Student, Computer Science, Jeonbuk National University; M.S., Computer Science, Jeonbuk National University; B.S., Computer Science, Jeonbuk National University. Honors &amp; certifications: Excellence Award; 2nd Runner-up; Unmanned Multi-Copter Pilot License (Class 2)." /></picture></a>
+<a href="https://jumincho.github.io/juminwho/#education"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/education-dark.svg" /><img src="assets/en/education-light.svg" width="414" alt="Education: Ph.D. Student, Computer Science, Jeonbuk National University; M.S., Computer Science, Jeonbuk National University; B.S., Computer Science, Jeonbuk National University. Honors &amp; certifications: Excellence Award; Silver Award; Unmanned Multi-Copter Pilot License (Class 2)." /></picture></a>
 </p>
 
 <p align="center">
