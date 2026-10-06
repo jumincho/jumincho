@@ -13,14 +13,14 @@ const BIRTH = '1998-07-10T00:00:00+09:00'
 const FILES = [
   "assets/en/glance-light.svg",
   "assets/en/glance-dark.svg",
+  "assets/ko/glance-light.svg",
+  "assets/ko/glance-dark.svg",
   "assets/zh-CN/glance-light.svg",
   "assets/zh-CN/glance-dark.svg",
   "assets/zh-HK/glance-light.svg",
   "assets/zh-HK/glance-dark.svg",
   "assets/ja/glance-light.svg",
-  "assets/ja/glance-dark.svg",
-  "assets/ko/glance-light.svg",
-  "assets/ko/glance-dark.svg"
+  "assets/ja/glance-dark.svg"
 ]
 const YEAR_MS = 365.2425 * 24 * 60 * 60 * 1000
 const age = ((Date.now() - Date.parse(BIRTH)) / YEAR_MS).toFixed(4)

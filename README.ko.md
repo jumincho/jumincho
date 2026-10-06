@@ -6,10 +6,10 @@
 
 <p align="center">
 <a href="https://github.com/jumincho"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang/lang-en-dark.svg" /><img src="assets/lang/lang-en-light.svg" width="112" alt="English" /></picture></a>
+<a href="https://github.com/jumincho/jumincho/blob/main/README.ko.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang/lang-ko-on-dark.svg" /><img src="assets/lang/lang-ko-on-light.svg" width="124" alt="한국어 ✓" /></picture></a>
 <a href="https://github.com/jumincho/jumincho/blob/main/README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang/lang-zh-CN-dark.svg" /><img src="assets/lang/lang-zh-CN-light.svg" width="121" alt="简体中文" /></picture></a>
 <a href="https://github.com/jumincho/jumincho/blob/main/README.zh-HK.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang/lang-zh-HK-dark.svg" /><img src="assets/lang/lang-zh-HK-light.svg" width="121" alt="繁體中文" /></picture></a>
 <a href="https://github.com/jumincho/jumincho/blob/main/README.ja.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang/lang-ja-dark.svg" /><img src="assets/lang/lang-ja-light.svg" width="102" alt="日本語" /></picture></a>
-<a href="https://github.com/jumincho/jumincho/blob/main/README.ko.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang/lang-ko-on-dark.svg" /><img src="assets/lang/lang-ko-on-light.svg" width="124" alt="한국어 ✓" /></picture></a>
 </p>
 
 <p align="center">
