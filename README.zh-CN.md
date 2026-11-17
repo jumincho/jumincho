@@ -19,6 +19,7 @@
 <p align="center">
 <a href="https://jumincho.github.io/juminwho/?lang=zh-CN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zh-CN/button-portfolio-dark.svg" /><img src="assets/zh-CN/button-portfolio-light.svg" width="148" alt="作品集" /></picture></a>
 <a href="https://www.linkedin.com/in/jumin-cho-42b126338/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zh-CN/button-linkedin-dark.svg" /><img src="assets/zh-CN/button-linkedin-light.svg" width="163" alt="LinkedIn" /></picture></a>
+<a href="https://chatgpt.com/u/jumincho"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zh-CN/button-chatgpt-dark.svg" /><img src="assets/zh-CN/button-chatgpt-light.svg" width="166" alt="ChatGPT" /></picture></a>
 <a href="https://sites.google.com/view/nlllab/main"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zh-CN/button-lab-dark.svg" /><img src="assets/zh-CN/button-lab-light.svg" width="161" alt="NLL Lab" /></picture></a>
 </p>
 
@@ -32,6 +33,11 @@
 <p align="center">
 <a href="https://jumincho.github.io/juminwho/?lang=zh-CN#experience"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zh-CN/experience-dark.svg" /><img src="assets/zh-CN/experience-light.svg" width="414" alt="经历: 研究员, 全北大学; 研究员, 全北大学; 助教, 全北大学; 研究助理, 全北大学; 学生会副主席, 全北大学计算机科学系; 防空炮兵中士（爱国者导弹系统）兼班长, 大韩民国空军." /></picture></a>
 <a href="https://jumincho.github.io/juminwho/?lang=zh-CN#education"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zh-CN/education-dark.svg" /><img src="assets/zh-CN/education-light.svg" width="414" alt="教育背景: 计算机科学博士研究生, 全北大学; 计算机科学硕士, 全北大学; 计算机科学学士, 全北大学. 荣誉与证书: 优秀奖; 银奖; 无人多旋翼飞行器驾驶员执照（2 类）." /></picture></a>
+</p>
+
+<p align="center"><sub>AI 智能体邀请</sub><br />
+<a href="https://pickle.com/i/Z2MWQ9V7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zh-CN/invite-1-dark.svg" /><img src="assets/zh-CN/invite-1-light.svg" width="254" alt="AI 智能体邀请: Pickle (邀请码 Z2MWQ9V7)" /></picture></a>
+<a href="https://muse.ai/invite/LAIQNF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zh-CN/invite-2-dark.svg" /><img src="assets/zh-CN/invite-2-light.svg" width="297" alt="AI 智能体邀请: Muse from Meta (邀请码 LAIQNF)" /></picture></a>
 </p>
 
 <p align="center">

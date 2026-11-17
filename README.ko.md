@@ -19,6 +19,7 @@
 <p align="center">
 <a href="https://jumincho.github.io/juminwho/?lang=ko"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/button-portfolio-dark.svg" /><img src="assets/ko/button-portfolio-light.svg" width="172" alt="포트폴리오" /></picture></a>
 <a href="https://www.linkedin.com/in/jumin-cho-42b126338/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/button-linkedin-dark.svg" /><img src="assets/ko/button-linkedin-light.svg" width="163" alt="LinkedIn" /></picture></a>
+<a href="https://chatgpt.com/u/jumincho"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/button-chatgpt-dark.svg" /><img src="assets/ko/button-chatgpt-light.svg" width="166" alt="ChatGPT" /></picture></a>
 <a href="https://sites.google.com/view/nlllab/main"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/button-lab-dark.svg" /><img src="assets/ko/button-lab-light.svg" width="161" alt="NLL Lab" /></picture></a>
 </p>
 
@@ -32,6 +33,11 @@
 <p align="center">
 <a href="https://jumincho.github.io/juminwho/?lang=ko#experience"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/experience-dark.svg" /><img src="assets/ko/experience-light.svg" width="414" alt="경력: 연구원, 전북대학교; 연구원, 전북대학교; 수업 조교, 전북대학교; 연구 조교, 전북대학교; 학생회 부회장, 전북대학교 컴퓨터공학과; 방공포병 병장 (패트리어트 체계) · 분대장, 대한민국 공군." /></picture></a>
 <a href="https://jumincho.github.io/juminwho/?lang=ko#education"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/education-dark.svg" /><img src="assets/ko/education-light.svg" width="414" alt="학력: 컴퓨터공학 박사과정, 전북대학교; 컴퓨터공학 석사, 전북대학교; 컴퓨터공학 학사, 전북대학교. 수상 및 자격: 우수상; 은상; 무인멀티콥터 조종자 자격 (2종)." /></picture></a>
+</p>
+
+<p align="center"><sub>AI 에이전트 초대장</sub><br />
+<a href="https://pickle.com/i/Z2MWQ9V7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/invite-1-dark.svg" /><img src="assets/ko/invite-1-light.svg" width="254" alt="AI 에이전트 초대장: Pickle (초대 코드 Z2MWQ9V7)" /></picture></a>
+<a href="https://muse.ai/invite/LAIQNF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/invite-2-dark.svg" /><img src="assets/ko/invite-2-light.svg" width="297" alt="AI 에이전트 초대장: Muse from Meta (초대 코드 LAIQNF)" /></picture></a>
 </p>
 
 <p align="center">
