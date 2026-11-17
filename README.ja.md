@@ -36,8 +36,8 @@
 </p>
 
 <p align="center"><sub>AI エージェント招待</sub><br />
-<a href="https://pickle.com/i/Z2MWQ9V7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ja/invite-1-dark.svg" /><img src="assets/ja/invite-1-light.svg" width="254" alt="AI エージェント招待: Pickle (招待コード Z2MWQ9V7)" /></picture></a>
-<a href="https://muse.ai/invite/LAIQNF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ja/invite-2-dark.svg" /><img src="assets/ja/invite-2-light.svg" width="297" alt="AI エージェント招待: Muse from Meta (招待コード LAIQNF)" /></picture></a>
+<a href="https://muse.ai/invite/LAIQNF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ja/invite-1-dark.svg" /><img src="assets/ja/invite-1-light.svg" width="297" alt="AI エージェント招待: Muse from Meta (招待コード LAIQNF)" /></picture></a>
+<a href="https://pickle.com/i/Z2MWQ9V7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ja/invite-2-dark.svg" /><img src="assets/ja/invite-2-light.svg" width="254" alt="AI エージェント招待: Pickle (招待コード Z2MWQ9V7)" /></picture></a>
 </p>
 
 <p align="center">

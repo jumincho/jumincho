@@ -36,8 +36,8 @@
 </p>
 
 <p align="center"><sub>AI 에이전트 초대장</sub><br />
-<a href="https://pickle.com/i/Z2MWQ9V7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/invite-1-dark.svg" /><img src="assets/ko/invite-1-light.svg" width="254" alt="AI 에이전트 초대장: Pickle (초대 코드 Z2MWQ9V7)" /></picture></a>
-<a href="https://muse.ai/invite/LAIQNF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/invite-2-dark.svg" /><img src="assets/ko/invite-2-light.svg" width="297" alt="AI 에이전트 초대장: Muse from Meta (초대 코드 LAIQNF)" /></picture></a>
+<a href="https://muse.ai/invite/LAIQNF"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/invite-1-dark.svg" /><img src="assets/ko/invite-1-light.svg" width="297" alt="AI 에이전트 초대장: Muse from Meta (초대 코드 LAIQNF)" /></picture></a>
+<a href="https://pickle.com/i/Z2MWQ9V7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ko/invite-2-dark.svg" /><img src="assets/ko/invite-2-light.svg" width="254" alt="AI 에이전트 초대장: Pickle (초대 코드 Z2MWQ9V7)" /></picture></a>
 </p>
 
 <p align="center">
